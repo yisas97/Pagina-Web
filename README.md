@@ -1,2 +1,2 @@
-# pagina_html_css
- Clase de Html y CSs en Platzi
+# Paginas Web
+ Clase de Html y CSS
